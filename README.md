@@ -3,6 +3,12 @@ This C# SDK helps .NET developers build .NET Web and desktop applications that i
 
 *Note: This sample does not necessarily demonstrate the best use but rather features of using Kuveyt Turk API Banking C# SDK. Always remember to handle exceptions.*
 
+### Dependencies 
+
+This library is dependent on:
+
+- RestSharp (http://restsharp.org/)
+- Newtonsoft.Json (http://json.codeplex.com/)
 
 ### Client Information For Request
 To consume the APIs, you have to register to [Kuveyt Turk API Market](https://developer.kuveytturk.com.tr/#/). Upon, you can get client id and client secret after creating an application on the API Market.
