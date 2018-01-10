@@ -136,7 +136,7 @@ To call the APIs which require the authorization code flow, you have to add a si
 
 The client and certificate data are loading in Application_Start method in Global.asax
 
-```json
+```csharp
 string pemstr = File.ReadAllText(Server.MapPath("~/App_Data/private_key.pem")).Trim();
 JObject clientObject = JObject.Parse(File.ReadAllText(Server.MapPath("~/App_Data/client.json")));
 
