@@ -1,0 +1,9 @@
+D:\work\KT.ThirdParty\APIBankingCSharpSDK\KuveytTurkAPICSharp\bin\Release\KuveytTurkAPICSharp.dll
+D:\work\KT.ThirdParty\APIBankingCSharpSDK\KuveytTurkAPICSharp\bin\Release\KuveytTurkAPICSharp.pdb
+D:\work\KT.ThirdParty\APIBankingCSharpSDK\KuveytTurkAPICSharp\bin\Release\Newtonsoft.Json.dll
+D:\work\KT.ThirdParty\APIBankingCSharpSDK\KuveytTurkAPICSharp\bin\Release\RestSharp.dll
+D:\work\KT.ThirdParty\APIBankingCSharpSDK\KuveytTurkAPICSharp\bin\Release\Newtonsoft.Json.xml
+D:\work\KT.ThirdParty\APIBankingCSharpSDK\KuveytTurkAPICSharp\obj\Release\KuveytTurkAPICSharp.csprojResolveAssemblyReference.cache
+D:\work\KT.ThirdParty\APIBankingCSharpSDK\KuveytTurkAPICSharp\obj\Release\KuveytTurkAPICSharp.csproj.CoreCompileInputs.cache
+D:\work\KT.ThirdParty\APIBankingCSharpSDK\KuveytTurkAPICSharp\obj\Release\KuveytTurkAPICSharp.dll
+D:\work\KT.ThirdParty\APIBankingCSharpSDK\KuveytTurkAPICSharp\obj\Release\KuveytTurkAPICSharp.pdb

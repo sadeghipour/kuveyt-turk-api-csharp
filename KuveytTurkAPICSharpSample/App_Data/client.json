@@ -1,0 +1,5 @@
+﻿{
+  "ClientId": "client Id",
+  "ClientSecret": "client secret",
+  "RedirectUri": "http://localhost:<port>/api/GetAuthorizationCodeAfterRedirect"
+}

@@ -1,0 +1,5 @@
+﻿{
+  "ClientId": "253ca318b4ea45e79d223c94598c4b5f",
+  "ClientSecret": "PAhLTaT0i23wo01C4iyFMaKcpzie+Hoj0LJVvthQJHjJwZl42ZuG5w==",
+  "RedirectUri": "http://localhost:84/api/GetAuthorizationCodeAfterRedirect"
+}
