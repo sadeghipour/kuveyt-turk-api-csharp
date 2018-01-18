@@ -218,7 +218,8 @@ namespace KuveytTurkAPICSharp
         private bool CheckExpireToken(IRestResponse response)
         {
             if (response.Headers.Any(i => i.Value.ToString().Contains(Request.RefreshRequired))
-            || response.Headers.Any(i => i.Value.ToString().Contains(Request.TokenIsExpired)))
+            || response.Headers.Any(i => i.Value.ToString().Contains(Request.TokenIsExpired))
+            || response.Headers.Any(i => i.Value.ToString().ToLower().Contains(Request.TokenRefreshRequired)))
                 return true;
             else
                 return false;

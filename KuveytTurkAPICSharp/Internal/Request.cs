@@ -18,6 +18,7 @@ namespace KuveytTurkAPICSharp.Internal
         internal const string UrlEncodedContentType = "application/x-www-form-urlencoded";
         internal const string RefreshRequired = "refresh required";
         internal const string TokenIsExpired = "token is expired";
+        internal const string TokenRefreshRequired = "refreshrequired";
         internal const string ClientCredentials = "client_credentials";
         internal const string AuthorizationCode = "authorization_code";
         internal const string RefreshToken = "refresh_token";
